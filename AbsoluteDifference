@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * code to find the difference between the largest and the smallest number on an integer array
- * @author puneethshankar
+ * @author highStakes
  *
  */
 public class AbsoluteDifference {
