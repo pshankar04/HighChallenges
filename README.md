@@ -1,1 +1,1 @@
-# HighChallenges-HackerRank
+# HighChallenges
