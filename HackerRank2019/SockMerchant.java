@@ -1,4 +1,4 @@
-package HackerRank2019;
+package HackerRank;
 
 import java.util.HashMap;
 import java.util.Map;
